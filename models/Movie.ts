@@ -1,5 +1,3 @@
-import * as borsh from '@project-serum/borsh'
-
 export class Movie {
   title: string;
   rating: number;
